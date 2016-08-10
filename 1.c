@@ -14,3 +14,4 @@ d = a-b;
 printf("difference of number = %d\n",d); 
    return 0;
 }
+//This is the code for addition and substraction
