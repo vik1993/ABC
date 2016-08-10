@@ -4,7 +4,7 @@ int main()
 {
    int a, b, c, d;
  
-   printf("Enter two numbers to add\n");
+   printf("Enter two numbers\n");
    scanf("%d%d",&a,&b);
  
    c = a + b;
@@ -14,3 +14,4 @@ d = a-b;
 printf("difference of number = %d\n",d); 
    return 0;
 }
+//This is the code for addition and substraction
